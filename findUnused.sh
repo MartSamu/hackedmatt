@@ -1,3 +1,3 @@
 #!/bin/bash
-ls ~/.ssh
+ls -t ~/.ssh
 
