@@ -1,2 +1,4 @@
 #!/bin/bash
-ls authorized_keys
+cd ..
+cd ..
+ls
