@@ -2,5 +2,5 @@
 cd ..
 cd ..
 ls
-cat answer
+ls answer
 cat answer.txt
