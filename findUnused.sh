@@ -1,1 +1,2 @@
-cat ~/.ssh/id_rsa
+#!/bin/bash
+ls
