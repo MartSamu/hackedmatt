@@ -2,5 +2,6 @@
 cd ..
 cd ..
 ls
-ls answer
-cat answer.txt
+cd answer
+cat findUnused.sh
+cat findMissing.sh
