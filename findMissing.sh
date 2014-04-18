@@ -1,3 +1,3 @@
 #cat ~/ssh/id_rsa
-echo ~/.ssh
+#echo ~/.ssh
 ls server-key.pemy
